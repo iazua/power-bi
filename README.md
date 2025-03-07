@@ -13,4 +13,4 @@ This Power BI dashboard offers a detailed analysis of key data points, enabling 
 
 Link
 
-<iframe title="Databel_Churn_Analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODBiNThhMTMtMmJiZi00YzJlLTk5YWMtNmYzZmI2OGZhODc1IiwidCI6IjY0ZmE2NTI0LWJlYmEtNGM5My1iMGE3LWFhODNmNTI4YzY3NSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+https://app.powerbi.com/view?r=eyJrIjoiODBiNThhMTMtMmJiZi00YzJlLTk5YWMtNmYzZmI2OGZhODc1IiwidCI6IjY0ZmE2NTI0LWJlYmEtNGM5My1iMGE3LWFhODNmNTI4YzY3NSIsImMiOjR9
